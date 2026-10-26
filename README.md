@@ -12,7 +12,7 @@ The project follows a modular pipeline design, separating data ingestion, indexi
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 * **Domain-Adaptive Ingestion:** Tailored data parsing designed to handle clinical documents and structured medical hierarchies.
 * **Optimized LlamaIndex Pipeline:** Leverages advanced indexing abstractions to build, persist, and query vector spaces efficiently.
